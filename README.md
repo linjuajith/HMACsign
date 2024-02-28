@@ -1,0 +1,2 @@
+Linju Lawrence, mail Id: linjulawrence680@gmail.com, linjulawrence680@cet.ac.in Dr. Shreelekshmi R., mail Id: shreelekshmi@cet.ac.in
+This is a video integrity verification method using cryptographic methods such as HMAC, key exchange, signature generation etc. is developed in C language and uses gcc compiler. OpenSSL cryptographic library and libssl-dev package must be installed. The program is compiled by, gcc compiler
